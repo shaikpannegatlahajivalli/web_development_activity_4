@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Shopping Website</title>
+    <link rel="stylesheet" href="valli.css">
+    </head>
+    <boby>
+        <header>
+            <h1>Foodie's corner</h1>
+            <p>Delicious Food,Happy Mood!</p>
+        </header>
+        <h2>Our special Menu</h2>
+        <img src="chi.jpg" alt="chicken biriyani">
+        <h3>Chicken Biriyani </h3>
+        <p>Price$120/-</p>
+    </boby>
